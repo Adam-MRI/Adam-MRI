@@ -1,37 +1,57 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=Hello+Heroes%2C+I'm+Adam+MRI!+👋" alt="Hello Heroes, I'm Adam MRI!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Hello+Heroes%2C" />
 
+<h1>Hi, I'm Adam MRI 👋</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adam-MRI&color=0891b2&style=flat&label=👁+Profile+Views)
+<h3>🚀 Future Software Developer | 🌍 Egypt | ♻️ Building Solutions That Matter</h3>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Adam-MRI&label=Visitors&color=00D4FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🔭 Currently Working On
+## 🚀 Featured Project
 
 <div align="center">
 
 <a href="https://recycling-pro.netlify.app">
-  <img src="https://img.shields.io/badge/♻️_Recycling_Pro-_A_smart_recycling_web_app-22c55e?style=for-the-badge&labelColor=15803d&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:15803d&height=130&section=header&text=♻️%20Recycling%20Pro&fontSize=36&fontColor=ffffff&desc=Smart%20Recycling%20Web%20Application&descAlignY=75"/>
 </a>
 
-<br/><br/>
+### 🌍 Making Recycling Smarter and Easier
 
-> 🌍 Making recycling smarter and easier — **[recycling-pro.netlify.app](https://recycling-pro.netlify.app)**
+A modern web platform designed to encourage smarter recycling habits and make environmental impact more accessible.
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-- 🇪🇬 From Egypt — bringing pharaoh energy to the web
-- 🏊 Water polo player — I score goals in the pool *and* in code
-- 🧊 Speed cuber — I can solve a Rubik's Cube faster than most people can say "algorithm"
-- 📚 Moderator at [Study Saga](https://www.study-saga.com/) — the best Pomodoro timer on the web
-- 🌱 Currently leveling up: JavaScript, APIs & backend dev
+```yaml
+Name: Adam MRI
+Location: Egypt 🇪🇬
+
+Interests:
+  - Software Development
+  - Web Development
+  - Problem Solving
+  - UI/UX
+
+Hobbies:
+  - Water Polo 🏊
+  - Speed Cubing 🧊
+  - Learning New Technologies 🚀
+
+Currently Learning:
+  - JavaScript
+  - APIs
+  - Backend Development
+```
 
 ---
 
@@ -39,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,vscode,netlify&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,vscode,github,netlify&theme=dark" />
 
 </div>
 
@@ -47,23 +67,24 @@
 
 ## 🌟 Projects
 
-| 🚀 Project | 📝 What it does |
-|-----------|----------------|
-| [♻️ Recycling Pro](https://recycling-pro.netlify.app) | Smart recycling web app |
-| [❌⭕ Enhanced XO Game](https://enhanced-xogame.netlify.app) | Sleek Tic-Tac-Toe with a twist |
+<div align="center">
+
+| Project | Description |
+|----------|------------|
+| ♻️ **Recycling Pro** | Smart recycling platform |
+| ❌⭕ **Enhanced XO Game** | Advanced Tic-Tac-Toe experience |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adam-MRI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-MRI&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adam-MRI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-MRI&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-MRI&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -73,9 +94,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Adam--MRI-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adam-MRI)
-&nbsp;
-[![Study Saga](https://img.shields.io/badge/Study_Saga-Moderator-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white)](https://www.study-saga.com/)
+<a href="https://github.com/Adam-MRI">
+<img src="https://img.shields.io/badge/GitHub-Adam--MRI-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
@@ -83,6 +104,10 @@
 
 <div align="center">
 
-*"Code it. Swim it. Cube it."* 🏆
+### ⚡ Personal Motto
+
+> **Code • Learn • Build • Improve**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0891B2&height=120&section=footer"/>
 
 </div>
