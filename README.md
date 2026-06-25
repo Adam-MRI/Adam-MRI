@@ -28,17 +28,32 @@ A modern web application that encourages smarter recycling habits and promotes e
 
 ---
 
-# 👨‍💻 About Me
+# 📚 Study Saga - Moderator
+
 <div align="center">
-<h3>{🚀 Future Computer Engneering | 🇪🇬 Egypt}</h3>
-<div align="left">
-  
-- 🏊 Water Polo Player
-- 🧊 Speed Cuber
-- ♻️ Creator of Recycling Pro
-- 📚 Moderator at Study Saga
+
+<a href="https://www.study-saga.com/">
+<img src="https://github.com/Adam-MRI/Adam-MRI/assets/133625270/2021671e-024c-4734-802c-47121703666f" alt="Study Saga - Lofi Pomodoro Timer | Focus Music & Study" width="600"/>
+</a>
+
+### I'm a proud Moderator at [Study Saga](https://www.study-saga.com/)!
+
+Study Saga is a free Pomodoro timer with lofi & synthwave music, ambient sounds, and gamification. Level up while you focus. Available on web and mobile.
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+### {🚀 Future Computer Engineering | 🇪🇬 Egypt}
+
 - 🚀 Working toward becoming a Full-Stack Developer
 - 🌱 Currently learning JavaScript, APIs, and Backend Development
+- ♻️ Creator of Recycling Pro
+- 📚 Moderator at Study Saga
+- 🏊 Water Polo Player
+- 🧊 Speed Cuber
 
 ---
 
