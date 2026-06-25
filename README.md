@@ -4,8 +4,6 @@
 
 <br>
 
-<h3>💻 Computer Engineering Student | 🇪🇬 Egypt</h3>
-
 <img src="https://komarev.com/ghpvc/?username=Adam-MRI&color=00D4FF&style=flat-square"/>
 
 </div>
@@ -31,14 +29,16 @@ A modern web application that encourages smarter recycling habits and promotes e
 ---
 
 # 👨‍💻 About Me
-
-* 🇪🇬 Based in Egypt
-* 🏊 Water Polo Player
-* 🧊 Speed Cuber
-* ♻️ Creator of Recycling Pro
-* 📚 Moderator at Study Saga
-* 🚀 Working toward becoming a Full-Stack Developer
-* 🌱 Currently learning JavaScript, APIs, and Backend Development
+<div align="center">
+<h3>{🚀 Future Computer Engneering | 🇪🇬 Egypt}</h3>
+<div align="left">
+  
+- 🏊 Water Polo Player
+- 🧊 Speed Cuber
+- ♻️ Creator of Recycling Pro
+- 📚 Moderator at Study Saga
+- 🚀 Working toward becoming a Full-Stack Developer
+- 🌱 Currently learning JavaScript, APIs, and Backend Development
 
 ---
 
@@ -54,9 +54,9 @@ A modern web application that encourages smarter recycling habits and promotes e
 
 # 🌟 Projects
 
-| Project                                                    | Description                   |
-| ---------------------------------------------------------- | ----------------------------- |
-| [♻️ Recycling Pro](https://recycling-pro.netlify.app)      | Smart recycling platform      |
+| Project | Description |
+|----------|------------|
+| [♻️ Recycling Pro](https://recycling-pro.netlify.app) | Smart recycling platform |
 | [❌⭕ Enhanced XO Game](https://enhanced-xogame.netlify.app) | Modern Tic-Tac-Toe experience |
 
 ---
@@ -73,14 +73,6 @@ A modern web application that encourages smarter recycling habits and promotes e
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Adam-MRI/Adam-MRI/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -89,11 +81,8 @@ A modern web application that encourages smarter recycling habits and promotes e
 <img src="https://img.shields.io/badge/GitHub-Adam--MRI-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
- 
+&nbsp;
 
-<a href="https://www.study-saga.com/">
-<img src="https://img.shields.io/badge/Study%20Saga-Moderator-FF6B6B?style=for-the-badge">
-</a>
 
 </div>
 
