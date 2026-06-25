@@ -32,10 +32,7 @@ A modern web application that encourages smarter recycling habits and promotes e
 
 <div align="center">
 
-<a href="https://www.study-saga.com/">
-<img src="https://github.com/Adam-MRI/Adam-MRI/assets/133625270/2021671e-024c-4734-802c-47121703666f" alt="Study Saga - Lofi Pomodoro Timer | Focus Music & Study" width="600"/>
-</a>
-
+[![Study Saga](https://i.imgur.com/oLTzalq.png)](https://study-saga.com)
 ### I'm a proud Moderator at [Study Saga](https://www.study-saga.com/)!
 
 Study Saga is a free Pomodoro timer with lofi & synthwave music, ambient sounds, and gamification. Level up while you focus. Available on web and mobile.
