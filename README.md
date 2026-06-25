@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&height=100&lines=Hello+Heroes%2C;I'm+Adam+MRI+👋;Future+Software+Developer;Water+Polo+Player+🏊;Speed+Cuber+🧊;Building+Recycling+Pro+♻️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&height=100&lines=Hello+Heroes%2C;I'm+Adam+MRI+👋" />
 
 <br>
 
