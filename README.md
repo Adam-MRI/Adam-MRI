@@ -31,11 +31,10 @@ A modern web application that encourages smarter recycling habits and promotes e
 # 📚 Study Saga - Moderator
 
 <div align="center">
-
-[![Study Saga](https://i.imgur.com/oLTzalq.png)](https://study-saga.com)
+  
 ### I'm a proud Moderator at [Study Saga](https://www.study-saga.com/)!
+[![Study Saga](https://i.imgur.com/oLTzalq.png)](https://study-saga.com)
 
-Study Saga is a free Pomodoro timer with lofi & synthwave music, ambient sounds, and gamification. Level up while you focus. Available on web and mobile.
 
 </div>
 
