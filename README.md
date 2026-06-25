@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&height=100&lines=Hello+Heroes%2C;I'm+Adam+MRI+👋" />
 
 <br>
-
-<h3>🚀 Future Software Developer | 🇪🇬 Egypt</h3>
+<h3>🚀 Future Computer Engeneering | 🇪🇬 Egypt</h3>
 
 <img src="https://komarev.com/ghpvc/?username=Adam-MRI&label=PROFILE+VISITORS&color=00D4FF&style=for-the-badge"/>
 
