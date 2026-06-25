@@ -17,7 +17,7 @@
 
 <a href="https://recycling-pro.netlify.app">
 
-<img width="900" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:16a34a,100:22c55e&text=Recycling%20Pro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Smart%20Recycling%20Web%20Application&descAlignY=65"/>
+<img width="900" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:006400,100:22c55e&text=Recycling%20Pro&fontSize=42&fontColor=70e000&animation=fadeIn&fontAlignY=38&desc=Smart%20Recycling%20Web%20Application&descAlignY=65"/>
 
 </a>
 
@@ -106,6 +106,6 @@ A modern web application that encourages smarter recycling habits and promotes e
 
 **Code • Learn • Build • Improve**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:22c55e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:22c55e&height=120&section=footer"/>
 
 </div>
